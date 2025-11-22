@@ -1,7 +1,4 @@
 # Children_Memory_Dynamics
-
-## BSDS brain dynamic detection for children episodic memory
-
 ## Summary and Requirements:
   This repository contains custom Matlab scriptes needed to produce key results in the manuscript.
 ## Test Environment(s):
