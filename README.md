@@ -14,7 +14,6 @@ MATLAB version: R2020a  Python Version: 3.6  Operating System: windows 10, linux
 ### Bayesian switcing dynamical systems （Figure 1）
   * conduct BSDS modeling for episodic memory related ROIs.
   
-    script: Fig_1.m
   
     
 ### Decoded brain state characterization (Figure 2)
@@ -32,4 +31,9 @@ MATLAB version: R2020a  Python Version: 3.6  Operating System: windows 10, linux
   * Decoding pre and post rest brain state dynmaics
   
     script: Fig_4.m
+    
+### Supplementary analyses (Figure Supplement)
+  * Decoding pre and post rest brain state dynmaics
+  
+    script: Fig_supp.m
 
