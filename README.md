@@ -9,8 +9,8 @@ MATLAB version: R2020a  Python Version: 3.6  Operating System: windows 10, linux
   *  Mean amplitude, functional conn as well as network structure analyses
   *  Brain state dynamic metrics: occupancy rate, mean life as well as transitions
   *  Decoding pre and post rest brain state dynmaics
-  *  
-  *  script: Script_1_encoding_session_analyses.m
+  *  script:
+  *  1.Script_1_encoding_session_analyses.m
 
 
 ## Supplementary analyses (Figure Supplement)
