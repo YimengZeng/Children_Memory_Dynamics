@@ -5,19 +5,18 @@
 MATLAB version: R2020a  Python Version: 3.6  Operating System: windows 10, linux centos6_x86_64
 
 ## Behavioral and brain dynamic analyses (Figure 1-4)
-  *  data for behavioral performance for each subject
-  *  mean amplitude, functional conn as well as network structure analyses
+  *  Data for behavioral performance for each subject
+  *  Mean amplitude, functional conn as well as network structure analyses
   *  Brain state dynamic metrics: occupancy rate, mean life as well as transitions
   *  Decoding pre and post rest brain state dynmaics
-  *  
-    script: Script_1_encoding_session_analyses
+  *  script: Script_1_encoding_session_analyses
 
 
 ## Supplementary analyses (Figure Supplement)
   * Decoding pre and post rest brain state dynamics
   
     script:
-    1.Permuted_encoding_analyses.m
-    2.Rest_only_analyses.m
-    3.Whole_brain_template_analyses.m 
+   * 1.Permuted_encoding_analyses.m
+   * 2.Rest_only_analyses.m
+   * 3.Whole_brain_template_analyses.m 
 
