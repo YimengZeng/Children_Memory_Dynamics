@@ -14,7 +14,7 @@ MATLAB version: R2020a  Python Version: 3.6  Operating System: windows 10, linux
 
 
 ## Supplementary analyses (Figure Supplement)
-  * Decoding pre and post rest brain state dynamics
+  * Robust analyses and state dyanmics reproducibility analyses
   * script:
    * 1.Permuted_encoding_analyses.m
    * 2.Rest_only_analyses.m
